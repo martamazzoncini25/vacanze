@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<pre>
+			a partire dai file nella presenti nella cartella 1.esercizio
+			
+			creare:
+			
+				un sito dinamico che legga le pagine da
+				una tabella pagine così strutturata:
+			
+				
+				pagine:
+					 idpagina  VARCHAR PK
+					 titolopag VARCHAR
+					 titoloh1  VARCHAR
+					 testo TEXT
+					 imgsfondo VARCHAR
+			
+				alla pressione dei link del menu si dovrà visualizzare
+				il contenuto della relativa riga del database 
+		</pre>
+	</body>
+</html>
